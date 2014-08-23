@@ -36,6 +36,7 @@ a[1];即第2个字母o
 var myAge=23;定义变量myAge，变量Variable的值即等号后可以是""中的string，也可以是数值
 console.log(myAge);输出23
 myAge=24;改变变量的值为24
+连续定义多个变量： var b=2,c=3;b===c即2===3 false
 
 var age = prompt("What's your age");设置用户回答问题的答案为变量
 
